@@ -1,5 +1,4 @@
 fastapi
-numpy
 scikit-learn
 streamlit
 gunicorn

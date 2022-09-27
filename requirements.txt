@@ -1,5 +1,4 @@
-fastapi
-scikit-learn
+pandas
 streamlit
 gunicorn
-pandas
+fastapi

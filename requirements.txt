@@ -1,5 +1,4 @@
 pandas
-numpy==1.3.0
-streamlit
-gunicorn
+numpy
 fastapi
+gunicorn

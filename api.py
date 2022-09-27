@@ -1,10 +1,6 @@
 import uvicorn
-from fastapi import FastAPI,Request
-import numpy as np
+from fastapi import FastAPI
 import pickle
-import sklearn
-
-
 app = FastAPI()
 
 

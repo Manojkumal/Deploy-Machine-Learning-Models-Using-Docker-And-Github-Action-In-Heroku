@@ -1,1 +1,1 @@
-web: gunicorn app:streamlit_demo
+web: gunicorn app:api

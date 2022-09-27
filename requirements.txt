@@ -1,7 +1,6 @@
 fastapi
 numpy
 scikit-learn
-sklearn
 streamlit
 gunicorn
 pandas

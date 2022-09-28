@@ -1,6 +1,3 @@
-pandas
-numpy
 fastapi
-gunicorn
 uvicorn
 sklearn

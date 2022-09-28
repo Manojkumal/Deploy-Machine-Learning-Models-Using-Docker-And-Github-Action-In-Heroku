@@ -5,5 +5,5 @@ WORKDIR /app
 RUN apt-get update -y && \
     apt-get install -y python3-pip
 RUN pip install -r requirements.txt
-EXPOSE $PORT
-CMD gunicorn --workers=4 --bind=0.0.0.0:$PORT app:api
+EXPOSE 8501 8501
+CMD ["python3","api.py"]
